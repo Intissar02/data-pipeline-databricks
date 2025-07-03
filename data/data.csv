@@ -1,1 +1,6 @@
+date,location,temp_c,humidity,wind_kph
+2023-06-01,Casablanca,28.4,65,14
+2023-06-02,Rabat,27.1,70,12
+2023-06-03,Marrakech,35.2,40,8
+2023-06-04,Fes,30.8,55,10
 
